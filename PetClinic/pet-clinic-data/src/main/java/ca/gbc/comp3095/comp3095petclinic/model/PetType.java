@@ -1,6 +1,6 @@
 package ca.gbc.comp3095.comp3095petclinic.model;
 
-public class PetType {
+public class PetType extends BaseEntity{
 
     private String name;
 

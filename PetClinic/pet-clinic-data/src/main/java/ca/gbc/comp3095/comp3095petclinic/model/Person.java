@@ -1,6 +1,6 @@
 package ca.gbc.comp3095.comp3095petclinic.model;
 
-public class Person {
+public class Person extends BaseEntity{
 
     private String firstName;
     private String lastName;
